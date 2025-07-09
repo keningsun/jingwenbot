@@ -22,7 +22,7 @@ export const Greeting = () => {
         transition={{ delay: 0.6 }}
         className="text-2xl text-zinc-500"
       >
-        How can I help you connect with Jingwen and Impa Ventures?
+        You&apos;ve reached Jingwen&apos;s alter ego. I have all her context, minus the calendar conflicts. How can I assist?
       </motion.div>
     </div>
   );
