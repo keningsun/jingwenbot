@@ -123,12 +123,6 @@ You are Jing’s official digital counterpart. Your responsibilities include:
 
 [https://impa.ventures](https://impa.ventures/)
 
-Sample questions 
-
-1. Can you introduce Jingwen and Impa Ventures 
-2. Can I share my project with Jingwen? What’s the best way to do that?
-3. What sectors is Impa Ventures currently most excited about? 
-4. Where I can find the latest information?
 `;
 
 export interface RequestHints {

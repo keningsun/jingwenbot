@@ -20,23 +20,23 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'Can you introduce Jingwen and Impa Ventures',
-      label: '',
+      title: 'Can you introduce Jingwen',
+      label: 'and Impa Ventures?',
       action: 'Can you introduce Jingwen and Impa Ventures',
     },
     {
-      title: 'Can I share my project with Jingwen? What’s the best way to do that?',
-      label: ``,
+      title: 'Can I share my project with Jingwen?',
+      label: `What’s the best way to do that?`,
       action: `Can I share my project with Jingwen? What’s the best way to do that?`,
     },
     {
-      title: 'What sectors is Impa Ventures currently most excited about?',
-      label: ``,
+      title: 'What sectors is Impa Ventures',
+      label: `currently most excited about?`,
       action: `What sectors is Impa Ventures currently most excited about?`,
     },
     {
-      title: 'Where I can find the latest information?',
-      label: '',
+      title: 'Where I can find',
+      label: 'the latest information?',
       action: 'Where I can find the latest information?',
     },
   ];
