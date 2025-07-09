@@ -20,24 +20,24 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: 'Can you introduce Jingwen and Impa Ventures',
+      label: '',
+      action: 'Can you introduce Jingwen and Impa Ventures',
     },
     {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
+      title: 'Can I share my project with Jingwen? What’s the best way to do that?',
+      label: ``,
+      action: `Can I share my project with Jingwen? What’s the best way to do that?`,
     },
     {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
+      title: 'What sectors is Impa Ventures currently most excited about?',
+      label: ``,
+      action: `What sectors is Impa Ventures currently most excited about?`,
     },
     {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
+      title: 'Where I can find the latest information?',
+      label: '',
+      action: 'Where I can find the latest information?',
     },
   ];
 
